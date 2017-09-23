@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README is to help adventure seekers find and see firsthand the natural beauty Arizona offers.
 
-Things you may want to cover:
+The developer loves the outdoors and seeing what Arizona offers - and loves how diverse this beautiful state really is.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ready? Let's go!
